@@ -1,0 +1,14 @@
+Hola Tobi!
+Muy bien tu trabajo.
+
+Como comentario solamente:
+
+Se puede usar tanto <input type="button"...> como hiciste, ó <button>
+
+Cuidado con el espaciado e indentado del código.
+Ahora no es problema, pero cuando el HTML tiene más contenido se hace más complicado de 
+leer visualmente.
+
+Muy buen uso de los atributos de los elementos HTML!
+
+Abrazo!
